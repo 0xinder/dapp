@@ -2,7 +2,7 @@
 # Dapp
 
 ## 📌 **Overview**
-This project implements a **land grab application** where **users can claim any coordinates to their wallet address** deployed on **holesky network**
+This project implements a **land grab application** where **users can claim any coordinates to their wallet address**
 
 ## 🧱 Tech Stack
 
